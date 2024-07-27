@@ -31,7 +31,3 @@ Run the `Game.py` file to start the game.
 
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgments
-- Pygame community
-- All the game testers
